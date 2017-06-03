@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ScalolClient</string>
+    <string name="listPostViewName">post_view</string>
+    <string name="PostDefaultTitle">No Title</string>
+    <string name="PostImgDefault">No URL</string>
+    <string name="PostButtonUpvote">Upvote</string>
+    <string name="PostButtonDownvote">Downvote</string>
+    <string name="PostNsfw">nsfw</string>
+    <string name="PostScoreDefault">No Score</string>
+    <string name="PostScoreText">Score:</string>
+    <string name="FlowMenuLoginText">Login</string>
+    <string name="FlowMenuLoggedUpload">Upload</string>
+    <string name="FlowMenuLoggedMEssages">Messages</string>
+    <string name="FlowMenuLoggedLogout">Logout</string>
+    <string name="LoginTitle">Login</string>
+    <string name="LoginUsernameHint">Enter your username</string>
+    <string name="FlowMenuNoLoginSignUp">Sign up</string>
+    <string name="LoginPAsswordHint">Enter your password</string>
+    <string name="LoginButtonText">Login</string>
+    <string name="AlertTitle">Error</string>
+    <string name="AlertUsernameEmptyMessage">Username cannot be empty</string>
+    <string name="AlertPasswordEmptyMessage">Password cannot be empty</string>
+    <string name="AlertMailEmptyMessage">Mail cannot be empty</string>
+    <string name="AlertCheckPasswordEmptyMessage">The second massword cannot be empty</string>
+    <string name="AlertCheckPasswordFailedMessage">The second massword must match the first</string>
+    <string name="AlertWrongUsernamePasswordMessage">Wrong username and/or password.</string>
+    <string name="AlertUsernameTooLongMessage">Your username is too long! (max 30 chars.)</string>
+    <string name="AlertSomethingWentWrongMessage">Something went wrong! Please try again later.</string>
+    <string name="AlertServerIsDrunk">Something went wrong! Please try again later.</string>
+    <string name="WaitingTitle">Loading...</string>
+    <string name="SignUpHintMail">Enter your mail</string>
+    <string name="PasswordCheckHint">Retype your password</string>
+    <string name="SignUpTitle">Sign Up</string>
+
+    <string-array name="Planets">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
